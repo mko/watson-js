@@ -1,22 +1,3 @@
-Watson.js - AT&amp;T Speech API Client Library for Node.js
-=========
-
-Watson.js: Simple Node.js API Client Library for the AT&amp;T Speech API
-
-## Installation
-
-- `watson-js` is available on NPM and maintained in sync with this Github branch. Just include it in your dependencies via `package.json` and `npm install` in your app's root directory to install it in your `node_modules` directory.
-
-## Instructions on Use
-
-- Coming Soon
-
-## Contributors
-
-- [Michael Owens](https://github.com/mowens)
-
-## License
-
 (The MIT License)
 
 Copyright (c) 2012 Michael Owens
