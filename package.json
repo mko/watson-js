@@ -1,6 +1,6 @@
 {
   "name": "watson-js",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Watson.js: Simple Node.js API Wrapper for the AT&T Speech API",
   "author": "Michael Owens <mk@mowens.com> (http://mowens.com/)",
   "repository": {
