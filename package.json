@@ -1,11 +1,11 @@
 {
   "name": "watson-js",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Watson.js: Simple Node.js API Wrapper for the AT&T Speech API",
   "author": "Michael Owens <mk@mowens.com> (http://mowens.com/)",
   "repository": {
     "type": "git",
-    "url": "http://github.com/mowens/watson-js.git"
+    "url": "http://github.com/mko/watson-js.git"
   },
   "main": "./lib/watson",
   "dependencies": {

@@ -13,7 +13,9 @@ Watson.js: Simple Node.js API Client Library for the AT&amp;T Speech API
 
 ## Contributors
 
-- [Michael Owens](https://github.com/mowens)
+- [Michael Owens](https://github.com/mko)
+- [smcguinness](https://github.com/smcguinness)
+- [MikkoH](https://github.com/MikkoH)
 
 ## License
 
