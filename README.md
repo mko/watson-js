@@ -1,6 +1,8 @@
 Watson.js - AT&amp;T Speech API Client Library for Node.js
 =========
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/mko/watson-js.svg)](https://greenkeeper.io/)
+
 Watson.js: Simple Node.js API Client Library for the AT&amp;T Speech API
 
 ## Installation
